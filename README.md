@@ -8,7 +8,7 @@ As a Frontend Developer, I specialize in creating visually appealing and user-fr
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [walaanew30@gmail.com](mailto:walaanew30@gmail.com)
-* 🚀  I'm currently working on [SDB Banking App - 10 products Website and Mobile App](http://www.sdb.gov.sa/ar-sa/our-products/personal/freelance/products/freelance)
+* 🚀  I'm currently working on [SDB Banking App - 10 products Website and Mobile App]
 * 🧠  I'm learning Data Structures and Algorithms.
 * 🤝  I'm open to collaborating on Project Development,Code Reviews, UI/UX Design,Problem Solving,Hackathons and Competitions.
 * ⚡  Did you know that the first computer bug was an actual bug? In 1947, Grace Hopper, a computer scientist and U.S. Navy rear admiral, found a moth causing trouble in the Harvard Mark II computer. This moth was carefully removed and taped into the logbook, marking the first ever 'debugging' of a computer!
