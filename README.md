@@ -8,8 +8,16 @@ As a Frontend Developer, I specialize in creating visually appealing and user-fr
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [walaazahran40@gmail.com](mailto:walaazahran40@gmail.com)
-* 🚀  I'm currently working on [SDB Banking App - 10 products Website and Mobile App](https://www.sdb.gov.sa/ar/%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D8%A7%D8%AF/%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D8%A7%D8%AF/%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D9%86%D9%82%D8%AF%D9%8A/)
-* 🧠  I'm learning Data Structures and Algorithms.
+* 🚀  I'm currently working on My latest project: LendMate – an advanced client management system!
+
+🔹 Comprehensive CRM Solution – Streamlining client onboarding and management with a user-friendly interface.
+🔹 Built with Angular , Ngrx & PrimeNG – Leveraging modern front-end technologies for a seamless experience.
+🔹 Dynamic Forms & Multi-Step Navigation – Enhancing data collection with intuitive workflows.
+🔹 Robust Data Integration – Ensuring accurate and up-to-date client, legal, and financial information.
+🔹 Component-based architecture – Promoting modularity, maintainability, and scalability.
+🔹 User Experience Focused – Prioritizing usability and efficiency in client interactions.
+
+* 🧠  I'm learning AI and Computer vision
 * 🤝  I'm open to collaborating on Project Development,Code Reviews, UI/UX Design,Problem Solving,Hackathons and Competitions.
 * ⚡  Did you know that the first computer bug was an actual bug? In 1947, Grace Hopper, a computer scientist and U.S. Navy rear admiral, found a moth causing trouble in the Harvard Mark II computer. This moth was carefully removed and taped into the logbook, marking the first ever 'debugging' of a computer!
 
