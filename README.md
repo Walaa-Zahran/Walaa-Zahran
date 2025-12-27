@@ -10,12 +10,12 @@ As a Frontend Developer, I specialize in creating visually appealing and user-fr
 * ✉️  You can contact me at [walaazahranthedeveloper@gmail.com](mailto:walaazahranthedeveloper@gmail.com)
 * 🚀  I'm currently working on My latest project: LendMate – an advanced client management system!
 
-(  🔹 Comprehensive CRM Solution – Streamlining client onboarding and management with a user-friendly interface.
-   🔹 Built with Angular , Ngrx & PrimeNG – Leveraging modern front-end technologies for a seamless experience.
-   🔹 Dynamic Forms & Multi-Step Navigation – Enhancing data collection with intuitive workflows.
-   🔹 Robust Data Integration – Ensuring accurate and up-to-date client, legal, and financial information.
-   🔹 Component-based architecture – Promoting modularity, maintainability, and scalability.
-   🔹 User Experience Focused – Prioritizing usability and efficiency in client interactions. )
+   🔹 Comprehensive CRM Solution – Streamlining client onboarding and management with a user-friendly interface. 
+   🔹 Built with Angular , Ngrx & PrimeNG – Leveraging modern front-end technologies for a seamless experience. 
+   🔹 Dynamic Forms & Multi-Step Navigation – Enhancing data collection with intuitive workflows. 
+   🔹 Robust Data Integration – Ensuring accurate and up-to-date client, legal, and financial information. 
+   🔹 Component-based architecture – Promoting modularity, maintainability, and scalability. 
+   🔹 User Experience Focused – Prioritizing usability and efficiency in client interactions. 
 
 * 🧠  I'm learning AI and Computer vision
 * 🤝  I'm open to collaborating on Project Development,Code Reviews, UI/UX Design,Problem Solving,Hackathons and Competitions.
